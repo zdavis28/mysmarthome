@@ -1,0 +1,7 @@
+../netifaces.cpython-34m.so
+.
+zip-safe
+dependency_links.txt
+top_level.txt
+SOURCES.txt
+PKG-INFO

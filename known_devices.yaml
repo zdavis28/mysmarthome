@@ -1,0 +1,153 @@
+
+amazon96721e3a6:
+  hide_if_away: false
+  icon:
+  mac: 10:AE:60:5E:52:41
+  name: amazon-96721e3a6
+  picture:
+  track: true
+  vendor: Private
+
+001788191286:
+  hide_if_away: false
+  icon:
+  mac: 00:17:88:19:12:86
+  name: --
+  picture:
+  track: true
+  vendor: Philips Lighting BV
+
+006b9e2fcd11:
+  hide_if_away: false
+  icon:
+  mac: 00:6B:9E:2F:CD:11
+  name: --
+  picture:
+  track: true
+  vendor: Vizio, Inc
+
+iphone:
+  hide_if_away: false
+  icon:
+  mac: 2C:20:0B:37:13:DC
+  name: iPhone
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+gaismbp:
+  hide_if_away: false
+  icon:
+  mac: F4:5C:89:C4:D4:EB
+  name: GAIs-MBP
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+harmonyhub:
+  hide_if_away: false
+  icon:
+  mac: 00:04:20:FB:32:0E
+  name: HarmonyHub
+  picture:
+  track: true
+  vendor: unknown
+
+09aa01ac36160hpt:
+  hide_if_away: false
+  icon:
+  mac: 18:B4:30:82:BC:CC
+  name: 09AA01AC36160HPT
+  picture:
+  track: true
+  vendor: unknown
+
+amazon019531121:
+  hide_if_away: false
+  icon:
+  mac: 74:C2:46:93:23:01
+  name: amazon-019531121
+  picture:
+  track: true
+  vendor: unknown
+
+augustconnect:
+  hide_if_away: false
+  icon:
+  mac: 28:24:FF:96:26:9D
+  name: august-connect
+  picture:
+  track: true
+  vendor: unknown
+
+raspberrypi:
+  hide_if_away: false
+  icon:
+  mac: B8:27:EB:EE:8E:69
+  name: raspberrypi
+  picture:
+  track: true
+  vendor: unknown
+
+50f5da1a5175:
+  hide_if_away: false
+  icon:
+  mac: 50:F5:DA:1A:51:75
+  name: --
+  picture:
+  track: true
+  vendor: unknown
+
+appletv:
+  hide_if_away: false
+  icon:
+  mac: D0:03:4B:30:07:8C
+  name: Apple-TV
+  picture:
+  track: true
+  vendor: unknown
+
+megansiphone:
+  hide_if_away: false
+  icon:
+  mac: A8:66:7F:96:41:11
+  name: Megans-iPhone
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+zachsapplewatch:
+  hide_if_away: false
+  icon:
+  mac: 84:FC:AC:EE:00:81
+  name: ZachsAppleWatch
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+megansair:
+  hide_if_away: false
+  icon:
+  mac: 48:D7:05:DA:3D:F9
+  name: Megans-Air
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+android3abbd038580bb9fd:
+  hide_if_away: false
+  icon:
+  mac: 50:F5:DA:7A:DC:AD
+  name: android-3abbd038580bb9fd
+  picture:
+  track: true
+  vendor: Amazon Technologies Inc.
+
+amazonffa2d3f4e:
+  hide_if_away: false
+  icon:
+  mac: 68:37:E9:E7:A3:79
+  name: amazon-ffa2d3f4e
+  picture:
+  track: true
+  vendor: Amazon Technologies Inc.
